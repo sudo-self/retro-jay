@@ -1,4 +1,5 @@
-<img width="1320" alt="Screenshot 2024-02-03 at 3 03 20 AM" src="https://github.com/sudo-self/retro-wind-daisy/assets/119916323/95c11903-2895-4dfe-8163-82ef3c5477eb">
+82ef3c5477eb">![IMG_3119](https://github.com/sudo-self/retro-wind-daisy/assets/119916323/8c18a366-7daa-4e32-8980-4bb5545787c3)
+
 
 Already pre-configured for tailwind and daisyUI
 
