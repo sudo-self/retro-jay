@@ -5,9 +5,9 @@ Already pre-configured for tailwind and daisyUI
 ## next-wind-daisy
 
 ```bash
-git clone https://github.com/sudo-self/next-wind-daisy.git
+git clone https://github.com/sudo-self/retro-wind-daisy.git
 
-cd next-wind-daisy
+cd retro-wind-daisy
 
 npm install
 
