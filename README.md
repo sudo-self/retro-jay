@@ -1,4 +1,6 @@
-https://github.com/sudo-self/retro-wind-daisy/assets/119916323/52776f77-b6cb-4ba2-b958-6a5ca280d6fb
+https://github.com/sudo-self/retro-wind-daisy/assets/119916323/a42fee06-286e-4f86-939b-095469d84603
+
+
 ![Screenshot 2024-02-03 at 9 02 09 AM](https://github.com/sudo-self/retro-wind-daisy/assets/119916323/9486535e-f01d-4245-a26a-40392e80a14d)
 <img width="551" alt="Screenshot 2024-02-03 at 4 32 40 AM" src="https://github.com/sudo-self/retro-wind-daisy/assets/119916323/47643920-c785-4252-bcd0-8e97ca43d53b">
 <img width="541" alt="Screenshot 2024-02-03 at 4 33 25 AM" src="https://github.com/sudo-self/retro-wind-daisy/assets/119916323/313e2702-2185-4b77-9987-fa7b8f490c6e">
